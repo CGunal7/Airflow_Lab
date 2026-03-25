@@ -1,0 +1,8 @@
+.env
+logs/
+__pycache__/
+*.pyc
+*.pyo
+dags/model/*.sav
+dags/model/*.pkl
+working_data/
